@@ -1,5 +1,5 @@
 # Irem_Portfolio
- This repository showcases my data science projects, highlighting my skills in data analysis, visualization, and machine learning. 
+ This repository showcases my data projects, highlighting my skills in data analysis, visualization, and machine learning. 
 
 ## [Project 1: Black Friday Sales Analysis Project] (https://github.com/igurek/Black-Friday-Sales) 
 This project aims to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. After creating valuable insights from the data, now I started to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products. Modeling part will be updated. 
