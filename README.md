@@ -1,4 +1,7 @@
-# Irem_Portfolio
+Data Analyst 
+Technical Skills: Python, SQL, Excel, Tableau
+
+ Irem_Portfolio
  This repository showcases my data projects, highlighting my skills in data analysis, visualization, and machine learning. 
 
 ## [Project 1: Black Friday Sales Analysis Project] (https://github.com/igurek/Black-Friday-Sales) 
