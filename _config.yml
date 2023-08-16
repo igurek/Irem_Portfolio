@@ -1,3 +1,6 @@
 title: Irem Gurek
-description: [Welcome to my portfolio! I'm passionate about Data, and  my portfolio showcases my diverse range of SQL, Python, Data Analysis]
-theme: jekyll-theme-hacker
+description: Welcome to my portfolio! This repository showcases my data projects, highlighting my skills in data analysis. 
+logo: iremg.png
+
+show_downloads: true
+theme: jekyll-theme-cayman
