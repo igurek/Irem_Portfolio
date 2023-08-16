@@ -1,6 +1,6 @@
 title: Irem Gurek
 description: Welcome to my portfolio! This repository showcases my data projects, highlighting my skills in data analysis. 
-logo: iremg.png
+
 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
