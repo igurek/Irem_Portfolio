@@ -1,24 +1,27 @@
-### Data Analyst 
+# Data Analyst 
 
 ## Technical Skills: Python, SQL, Excel, Tableau
 
 ## Education
 
 - Coursera, Google Career Certificates, present
+  
    Python for Data Science, AI & Development
   
-- Monroe College, King Graduate School, New Rochelle, NY   
+- Monroe College, King Graduate School, New Rochelle, NY
+   
    Master of Science in Computer Science, August 2023
   
-- Adnan Menderes University, Aydin, Turkey  
+- Adnan Menderes University, Aydin, Turkey
+  
    Bachelor’s Degree in Economics and Finance, 2018  
 
 
-# Project 1: Black Friday Sales Analysis Project https://github.com/igurek/Black-Friday-Sales
+### Project 1: Black Friday Sales Analysis Project https://github.com/igurek/Black-Friday-Sales
 
 This project aims to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. After creating valuable insights from the data, now I started to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products. Modeling part will be updated. 
 
-# Project 2: Retail Sales Analysis Project https://github.com/igurek/SQL_Sales_project 
+### Project 2: Retail Sales Analysis Project https://github.com/igurek/SQL_Sales_project 
 
 This project aims to showcase my SQL skills by analyzing and extracting valuable insights from a dataset of retail sales records. By delving into the data, I address critical business questions and provide comprehensive analysis for stakeholders.
 
@@ -27,12 +30,12 @@ Business Questions: The study focuses on answering important business questions 
 SQL Expertise: I leverage my SQL skills to perform data extraction, transformation, and analysis tasks, showcasing my proficiency in utilizing SQL queries to derive meaningful insights.
 
 
-# Project 3: Diabetes Analysis https://github.com/igurek/Diabetes
+### Project 3: Diabetes Analysis https://github.com/igurek/Diabetes
 
 This project focuses on analyzing factors related to diabetes using a dataset. The project addresses several key questions to gain insights into the relationship between various variables and the likelihood of being diabetic.
 
 
-# Project 4: Waiter Tip Prediction https://github.com/igurek/Tip-Prediction 
+### Project 4: Waiter Tip Prediction https://github.com/igurek/Tip-Prediction 
 
 This project focuses on predicting the amount of tip a waitress is likely to receive based on certain factors such as the total bill, the day of the week, and the time of day. The dataset was obtained from a restaurant and contains over 200 entries. The project includes data cleaning techniques such as imputation and removal of outliers as well as data visualization using tools such as matplotlib and seaborn. The analysis was carried out in Jupyter Notebook using Python. This project allowed me to improve my data visualization and analysis skills while overcoming the challenges of working with incomplete and messy data.
 
