@@ -1,4 +1,6 @@
-# Data Analyst 
+# Irem Gurek 
+
+## Data Analyst 
 
 ## Technical Skills: Python, SQL, Excel, Tableau
 
@@ -40,6 +42,6 @@ This project focuses on analyzing factors related to diabetes using a dataset. T
 This project focuses on predicting the amount of tip a waitress is likely to receive based on certain factors such as the total bill, the day of the week, and the time of day. The dataset was obtained from a restaurant and contains over 200 entries. The project includes data cleaning techniques such as imputation and removal of outliers as well as data visualization using tools such as matplotlib and seaborn. The analysis was carried out in Jupyter Notebook using Python. This project allowed me to improve my data visualization and analysis skills while overcoming the challenges of working with incomplete and messy data.
 
 
-# Project 5: Google Search Analysis https://github.com/igurek/Google_Searches_Analysis 
+### Project 5: Google Search Analysis https://github.com/igurek/Google_Searches_Analysis 
 
 This project utilizes the powerful pytrends API to analyze Google search trends related to the field of "Data Science."
